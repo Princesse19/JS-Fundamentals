@@ -45,3 +45,6 @@ Prints a square of X characters with size from the first command-line argument.
 #### 9-add.js  
 Prints the sum of two integers from command line arguments using an add function.
 
+#### 10-factorial.js  
+Computes and prints factorial of an integer using recursion.
+
