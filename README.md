@@ -29,3 +29,5 @@ This script prints the **first argument** passed from the command line.
 
 It uses: `process.argv[2]` to get the value.
 
+####4-concat.js ➜ Script that prints 2 arguments like “arg1 is arg2”
+
