@@ -1,3 +1,5 @@
+# JS-Fundamentals
+Basic JavaScript scripts for ALX tasks
 # JavaScript Fundamentals
 
 This repo contains beginner JavaScript exercises for ALX.
