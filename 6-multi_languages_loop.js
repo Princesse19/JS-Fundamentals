@@ -12,5 +12,5 @@ while (i < words.length) {
   i++;
 }
 
-console.log(lines);
+console.log(lines.trim());
 
