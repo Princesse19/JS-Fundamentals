@@ -20,3 +20,12 @@ This script prints a message depending on how many arguments are passed:
 
 Uses: `process.argv.slice(2)` to count arguments.
 
+## 3-value_argument.js
+
+This script prints the **first argument** passed from the command line.
+
+- If no argument ➜ prints `"No argument"`
+- If there's one or more ➜ prints only the **first**
+
+It uses: `process.argv[2]` to get the value.
+
