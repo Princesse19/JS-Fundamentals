@@ -31,3 +31,7 @@ It uses: `process.argv[2]` to get the value.
 
 ####4-concat.js ➜ Script that prints 2 arguments like “arg1 is arg2”
 
+## 5-to_integer.js
+
+Prints "My number: <number>" if the first argument can be converted to an integer, otherwise prints "Not a number".
+
