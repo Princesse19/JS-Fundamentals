@@ -35,3 +35,6 @@ It uses: `process.argv[2]` to get the value.
 
 Prints "My number: <number>" if the first argument can be converted to an integer, otherwise prints "Not a number".
 
+#### 6-multi_languages_loop.js  
+This project contains simple JavaScript scripts using arrays and loops.
+
