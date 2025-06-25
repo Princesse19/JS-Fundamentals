@@ -42,3 +42,6 @@ This script prints "C is fun" a number of times based on the first command-line 
 #### 8-square.js  
 Prints a square of X characters with size from the first command-line argument.
 
+#### 9-add.js  
+Prints the sum of two integers from command line arguments using an add function.
+
