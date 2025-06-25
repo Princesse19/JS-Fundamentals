@@ -37,4 +37,6 @@ Prints "My number: <number>" if the first argument can be converted to an intege
 
 #### 6-multi_languages_loop.js  
 This project contains simple JavaScript scripts using arrays and loops.
+#### 7-multi_c.js  
+This script prints "C is fun" a number of times based on the first command-line argument.
 
